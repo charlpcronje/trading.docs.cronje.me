@@ -1,1 +1,1 @@
-retype build --host trading.docs.devserv.me
+retype build --host trading.docs.CRONje.ME
