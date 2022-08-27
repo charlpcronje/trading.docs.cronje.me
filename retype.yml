@@ -4,6 +4,7 @@ url: http://trading.docs.CRONje.ME
 branding:
   title: CRONje.ME Trading Docs
   label: Docs
+favicon: ./favicon.png
 links:
 - text: Dashboard
   link: https://nav.cronje.me
