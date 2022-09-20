@@ -2,7 +2,7 @@ input: src
 output: public
 url: http://trading.docs.CRONje.ME
 branding:
-  title: CRONje.ME Trading Docs
+  title: CRONje.ME | Trading Docs
   label: Docs
 favicon: ./favicon.png
 links:
